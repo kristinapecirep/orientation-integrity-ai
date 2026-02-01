@@ -2,8 +2,7 @@
 
 This repository is a unified project space focused on orientation integrity in AI systems — including temporal anchoring, contextual stability, and second-order system awareness.
 
-TAI (Temporal Anchoring & Integrity) is the core framework of the project and serves as its canonical technical foundation.
-Additional components include 2SAI (Second-Order System Awareness & Integrity) and explanatory essays that expand, contextualize, and translate the core ideas.
+The work is organized into three parallel components (TAI, 2SAI, and essays). TAI is the primary technical framework of the project, while 2SAI and the essays provide complementary system-level and explanatory layers.
 
 The repository is intentionally structured as a shared reference space rather than a single-paper archive.
 
